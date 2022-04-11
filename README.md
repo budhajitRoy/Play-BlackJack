@@ -1,2 +1,2 @@
 # Play-BlackJack
-Just another python project to play Black Jack
+Just another python project for playing Black Jack
